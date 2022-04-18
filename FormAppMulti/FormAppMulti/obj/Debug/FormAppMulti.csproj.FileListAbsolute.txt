@@ -1,0 +1,11 @@
+E:\Datos-usuariol\Desktop\2022\Tecnicatura en Programación UTN\TUP2022\PROGRAMACION III\GitHub\FormAppMulti\FormAppMulti\bin\Debug\FormAppMulti.exe.config
+E:\Datos-usuariol\Desktop\2022\Tecnicatura en Programación UTN\TUP2022\PROGRAMACION III\GitHub\FormAppMulti\FormAppMulti\bin\Debug\FormAppMulti.exe
+E:\Datos-usuariol\Desktop\2022\Tecnicatura en Programación UTN\TUP2022\PROGRAMACION III\GitHub\FormAppMulti\FormAppMulti\bin\Debug\FormAppMulti.pdb
+E:\Datos-usuariol\Desktop\2022\Tecnicatura en Programación UTN\TUP2022\PROGRAMACION III\GitHub\FormAppMulti\FormAppMulti\obj\Debug\FormAppMulti.csproj.AssemblyReference.cache
+E:\Datos-usuariol\Desktop\2022\Tecnicatura en Programación UTN\TUP2022\PROGRAMACION III\GitHub\FormAppMulti\FormAppMulti\obj\Debug\FormAppMulti.Form1.resources
+E:\Datos-usuariol\Desktop\2022\Tecnicatura en Programación UTN\TUP2022\PROGRAMACION III\GitHub\FormAppMulti\FormAppMulti\obj\Debug\FormAppMulti.Properties.Resources.resources
+E:\Datos-usuariol\Desktop\2022\Tecnicatura en Programación UTN\TUP2022\PROGRAMACION III\GitHub\FormAppMulti\FormAppMulti\obj\Debug\FormAppMulti.csproj.GenerateResource.cache
+E:\Datos-usuariol\Desktop\2022\Tecnicatura en Programación UTN\TUP2022\PROGRAMACION III\GitHub\FormAppMulti\FormAppMulti\obj\Debug\FormAppMulti.csproj.CoreCompileInputs.cache
+E:\Datos-usuariol\Desktop\2022\Tecnicatura en Programación UTN\TUP2022\PROGRAMACION III\GitHub\FormAppMulti\FormAppMulti\obj\Debug\FormAppMulti.exe
+E:\Datos-usuariol\Desktop\2022\Tecnicatura en Programación UTN\TUP2022\PROGRAMACION III\GitHub\FormAppMulti\FormAppMulti\obj\Debug\FormAppMulti.pdb
+E:\Datos-usuariol\Desktop\2022\Tecnicatura en Programación UTN\TUP2022\PROGRAMACION III\GitHub\FormAppMulti\FormAppMulti\obj\Debug\FormAppMulti.Ventanita.resources
