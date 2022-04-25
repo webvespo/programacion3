@@ -1,0 +1,11 @@
+E:\Datos-usuariol\Desktop\2022\Tecnicatura en Programación UTN\TUP2022\PROGRAMACION III\GitHub\MDI-funcionando\MDI-funcionando\bin\Debug\MDI-funcionando.exe.config
+E:\Datos-usuariol\Desktop\2022\Tecnicatura en Programación UTN\TUP2022\PROGRAMACION III\GitHub\MDI-funcionando\MDI-funcionando\bin\Debug\MDI-funcionando.exe
+E:\Datos-usuariol\Desktop\2022\Tecnicatura en Programación UTN\TUP2022\PROGRAMACION III\GitHub\MDI-funcionando\MDI-funcionando\bin\Debug\MDI-funcionando.pdb
+E:\Datos-usuariol\Desktop\2022\Tecnicatura en Programación UTN\TUP2022\PROGRAMACION III\GitHub\MDI-funcionando\MDI-funcionando\obj\Debug\MDI-funcionando.csproj.AssemblyReference.cache
+E:\Datos-usuariol\Desktop\2022\Tecnicatura en Programación UTN\TUP2022\PROGRAMACION III\GitHub\MDI-funcionando\MDI-funcionando\obj\Debug\MDI_funcionando.Form1.resources
+E:\Datos-usuariol\Desktop\2022\Tecnicatura en Programación UTN\TUP2022\PROGRAMACION III\GitHub\MDI-funcionando\MDI-funcionando\obj\Debug\MDI_funcionando.Properties.Resources.resources
+E:\Datos-usuariol\Desktop\2022\Tecnicatura en Programación UTN\TUP2022\PROGRAMACION III\GitHub\MDI-funcionando\MDI-funcionando\obj\Debug\MDI-funcionando.csproj.GenerateResource.cache
+E:\Datos-usuariol\Desktop\2022\Tecnicatura en Programación UTN\TUP2022\PROGRAMACION III\GitHub\MDI-funcionando\MDI-funcionando\obj\Debug\MDI-funcionando.csproj.CoreCompileInputs.cache
+E:\Datos-usuariol\Desktop\2022\Tecnicatura en Programación UTN\TUP2022\PROGRAMACION III\GitHub\MDI-funcionando\MDI-funcionando\obj\Debug\MDI-funcionando.exe
+E:\Datos-usuariol\Desktop\2022\Tecnicatura en Programación UTN\TUP2022\PROGRAMACION III\GitHub\MDI-funcionando\MDI-funcionando\obj\Debug\MDI-funcionando.pdb
+E:\Datos-usuariol\Desktop\2022\Tecnicatura en Programación UTN\TUP2022\PROGRAMACION III\GitHub\MDI-funcionando\MDI-funcionando\obj\Debug\MDI_funcionando.Form2.resources
